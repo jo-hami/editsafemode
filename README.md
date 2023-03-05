@@ -1,2 +1,1 @@
-# editsafemode
-# editsafemode
+editsafemode :)
