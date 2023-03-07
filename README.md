@@ -1,7 +1,7 @@
 # editsafemode :) 
 
 ## coming soon! 
-> About Me 
-> editsafemode.com
-> Recipe API
-> Kor/Eng Flash Cards
+### > About Me 
+### > editsafemode.com
+### > Recipe API
+### > Kor/Eng Flash Cards
